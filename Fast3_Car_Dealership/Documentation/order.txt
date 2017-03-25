@@ -1,0 +1,8 @@
+This is the order to execute scripts:
+
+    Fast3_create_db.sql
+    address.sql
+    sample_data.sql
+    employee.sql
+    part_inventory.sql
+    vehicle_customer.sql
