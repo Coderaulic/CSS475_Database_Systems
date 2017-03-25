@@ -6,16 +6,10 @@
 - Differences between hierarchical, relational, and network database designs
 - Techniques for designing and coding effective reporting procedures
 
-test
-===============================================================================<br>
-Title:&emsp;&emsp;&emsp;&emsp;Fast 3 Car Dealership<br>
-Date:&emsp;&emsp;&emsp;&emsp;12/11/2015<br>
-Authors:&emsp;&emsp;&emsp;Matt Falkoski, Ryu Muthui, and Joon Jung<br>
-Description:&emsp;Database project created to simulate real world application<br>
-of a car dealership. Allows a car dealership to keep track of info such as: <br>
--
-===============================================================================<br>
+### Fast 3 Dealership
 
-
-
-
+Title:&emsp;&emsp;&emsp;&emsp;
+Edmonds Community College CS 141: Project 3 - Craps Simulation<br>
+Date:&emsp;&emsp;&emsp;&emsp;03/06/2013<br>
+Author:&emsp;&emsp;&emsp;Ryu Muthui<br>
+Description:&emsp;A GUI program that simulates the dice game of Craps<br>
