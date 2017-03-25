@@ -6,10 +6,20 @@
 - Differences between hierarchical, relational, and network database designs
 - Techniques for designing and coding effective reporting procedures
 
-### Fast 3 Dealership
-
-Title:&emsp;&emsp;&emsp;&emsp;
-Edmonds Community College CS 141: Project 3 - Craps Simulation<br>
-Date:&emsp;&emsp;&emsp;&emsp;03/06/2013<br>
-Author:&emsp;&emsp;&emsp;Ryu Muthui<br>
-Description:&emsp;A GUI program that simulates the dice game of Craps<br>
+===============================================================================<br>
+Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
+Fast 3 Car Dealership<br>
+Date:&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
+12/11/2015<br>
+Authors:&emsp;&emsp;&nbsp;&nbsp;
+Matt Falkoski, Ryu Muthui, and Joon Jung<br>
+Description:&emsp;
+Database project that simulates real world application of a car dealership.<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Allows a car dealership to keep track of info such as:<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;- Sales orders<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;- Service orders<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;- Vehicle inventory<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;- Parts inventory<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;- Employee info<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;- Customer info<br>
+===============================================================================<br>
