@@ -1,6 +1,6 @@
 # Database_Systems
 
-## UWB CSS_475 Course Objectives:
+#### Objectives:
 
 - Methods for obtaining requirements and designing database systems
 - Differences between hierarchical, relational, and network database designs
